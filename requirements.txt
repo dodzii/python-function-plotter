@@ -1,0 +1,5 @@
+matplotlib==3.9.1
+numpy==1.26.4
+PySide2==5.15.2.1
+PySide2==5.15.2.1
+pytest==8.2.2
