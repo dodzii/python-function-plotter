@@ -56,6 +56,14 @@ Try these functions:
 - `sin(x)`
 - `log10(x)`
 - `sqrt(x)`
+<br />
+<br />
+
+![Example 1 Screenshot](assets/example1.png)
+
+![Example 2 Screenshot](assets/example2.png)
+
+![Example 3 Screenshot](assets/example3.png)
 
 ## Error Handling
 
